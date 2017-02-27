@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>javascript book</title>
+</head>
+<body>
+<hl>javascript and DOM scripting</hl>
+<img src="http://aivaras.azukaitis.com/img/skills/html5.png" alt="javascript book">
+<p>chao cac ban
+<p>now,aaa<a href="">read more...</a></p><br><br>
+</body>
+</html>
